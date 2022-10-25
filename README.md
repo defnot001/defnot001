@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🌱 I’m currently learning Typescript and generally Web Developement.
+- 🔭 I’m mainly working on my two discord bots.
+
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=defnot001)](https://github.com/anuraghazra/github-readme-stats)
