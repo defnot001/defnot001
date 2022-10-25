@@ -11,5 +11,6 @@ Check out my **GitHub Stats** here:
 
 Those are my favourite languages:
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=defnot001)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=defnot001&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+I have a [Discord Server](https://discord.gg/wmJ3WBYcZF) where we can talk about anything that you might be interested in. You can also reach me via email.
